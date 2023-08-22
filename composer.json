@@ -1,0 +1,17 @@
+{
+    "name": "composite/laravel-nhtsa",
+    "description": "API wrapper for NHTSA webservice",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Composite\\LaravelNhtsa\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Támba Bence",
+            "email": "btamba@composite.hu"
+        }
+    ],
+    "require": {}
+}
